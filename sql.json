@@ -1,6 +1,0 @@
-{
-    "host": "database-1.cnwykisoqb94.ap-northeast-1.rds.amazonaws.com", 
-    "user": "admin",     
-    "password": "#Tibame01",  
-    "database": "trash_2"  
-}
